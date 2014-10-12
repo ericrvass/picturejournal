@@ -1,0 +1,77 @@
+body {
+	font-family: 'Voltaire', sans-serif;
+}
+.header {
+	
+}
+.title {
+	font-size: 40px;
+	font-weight: 600;
+}
+.subtitle {
+	font-size: 10px;
+	margin-top: -70px;
+	letter-spacing: 2px;
+}
+.footer {
+	font-size: 14px;
+}
+.app-body {
+	overflow-x: scroll;
+}
+.timeline {
+	background-image: url('/images/timeline.png');
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+.date {
+	text-align: center;
+	background-color: white;
+	color: #999999;
+	padding-left: 4px;
+}
+.grey-bg {
+  	background-color: #404040;
+  	color: white;
+}
+.white-bg {
+  	background-color: white;
+}
+.item-preview {
+	background-color: #404040;
+  	color: white;
+  	-webkit-box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.50);
+	-moz-box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.50);
+	box-shadow: 1px 1px 2px 0px rgba(0,0,0,0.50);
+	margin-left: 2%;
+}
+.overlay {
+	background-color: white;
+	opacity: 0.8;
+}
+.content {
+	color: #404040;
+	padding: 20px;
+	font-size: 18px;
+	overflow-y: scroll;
+}
+.content-title {
+	font-size: 22px;
+	font-weight: 600;
+	padding-bottom: 10px;
+}
+.content-link {
+	color: #404040;
+}
+.content-image {
+	width: 150px;
+	margin: 10px;
+	border: 2px solid #404040;
+}
+.footer-link {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+a {
+	color: white;
+}
