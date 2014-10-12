@@ -20,7 +20,7 @@ define(function(require, exports, module) {
         },
         {
             title: "A Fourth Thing",
-            date: "Feb '14",
+            date: "Jan '14",
             mainImage: "images/placeholder.jpg",
             body: "This is my description of this journal item.<br><br> Include some images:<br><br><img class='content-image' src='/images/placeholder.jpg'/><img class='content-image' src='/images/placeholder.jpg'/>"
         }
