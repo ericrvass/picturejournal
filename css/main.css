@@ -24,6 +24,15 @@ body {
 	background-repeat: repeat-x;
 	background-position: bottom;
 }
+@media(max-width:640px) {
+	.timeline {
+		margin-top: 20px;
+	}
+	.date {
+		margin-top: 20px;
+		font-size: 13px;
+	}
+}
 .date {
 	text-align: center;
 	background-color: white;
